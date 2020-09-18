@@ -22,7 +22,7 @@ class Sneeze extends Annoyance {}
 public class  TestResource {
 
 public static void main(String[] args) {
-    System.out.println('a' + 3 + "hello");
+    System.out.println('a' + 3 + "hell2222o");
     System.out.println("hello" + 'a' + 3);
 }
 }

@@ -9,7 +9,7 @@ public class Operation implements Callback {
     }
 
     public void ask(){
-        task.run("sdfsafsdfgbdfgsdfg", this);
+        task.run("sdfsafsdfgbdasdfasdfsfgsdfg", this);
     }
     @Override
     public void callBack(String a) {
