@@ -8,8 +8,7 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 @SpringBootApplication
 @EnableAutoConfiguration(exclude = {DataSourceAutoConfiguration.class})
 public class DemoApplication {
-asdfasd
-	// ����
+	// 我是分支代码
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
